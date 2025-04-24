@@ -1,3 +1,4 @@
 # A manifest of namespace changes
 voxa.user:voxa.api.user.user
 voxa.proxy.config:voxa.config.proxy_config
+voxa.registry.config:voxa.config.registry_config
