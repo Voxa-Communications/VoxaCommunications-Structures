@@ -3,7 +3,7 @@
     "version": "0.1.8",
     "platform": "github",
     "owner": "Voxa-Communications",
-    "repo": "VoxaCommunicaitons-Structures",
+    "repo": "VoxaCommunications-Structures",
     "branch": "main",
     "struct": "struct",
     "manifest": "kvmanifest.txt"
